@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "fatesign": {
+      "type": "http",
+      "url": "https://fatesign.com/mcp"
+    }
+  }
+}
