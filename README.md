@@ -9,6 +9,7 @@ Language models often get BaZi charts wrong when they calculate them unaided. Th
 - **Tool:** `calculate_bazi_chart` (read-only)
 - **Registry name:** [`com.fatesign/bazi`](https://registry.modelcontextprotocol.io/v0/servers?search=com.fatesign/bazi) in the official MCP Registry
 - **Claude Connectors Directory:** [FateSign BaZi](https://claude.ai/directory/fatesign-bazi)
+- **Glama:** [FateSign BaZi MCP connector](https://glama.ai/mcp/connectors/com.fatesign/bazi)
 - **Languages:** English, Simplified Chinese, Traditional Chinese, Japanese, Korean
 
 This repository holds the documentation and client configuration examples. The server is hosted by FateSign; its source code is not in this repository.
